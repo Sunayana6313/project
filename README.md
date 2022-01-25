@@ -19,3 +19,4 @@ It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
 ![Visualize](https://github.com/Sunayana6313/project/blob/main/Screenshot%202022-01-25%20225558.jpg)
+![Visualiz2](https://github.com/Sunayana6313/project/blob/main/visualize.jpg)
